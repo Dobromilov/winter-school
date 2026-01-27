@@ -1,3 +1,4 @@
-module awesomeProject1
+module kvschool
 
-go 1.25
+go 1.22
+
